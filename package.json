@@ -1,0 +1,21 @@
+{
+  "name": "bigproject",
+  "version": "1.0.0",
+  "description": "Nodejs based application to manage software projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('Valar Morghulis')"
+  },
+  "keywords": [
+    "bigproject",
+    "project",
+    "management",
+    "tool"
+  ],
+  "author": "Vipin Ramani Raghavan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "pug": "^2.0.0-rc.4"
+  }
+}
